@@ -1,7 +1,7 @@
 
 public class SingleLinkedList {
 
-	private NodeSll head = null; // Starting point.
+	private NodeSll head = null; // Starting point
 	
 	public void addNode(Object data_to_add) { // Adds a value.
 		
